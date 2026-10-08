@@ -1,35 +1,42 @@
-# Hi, I'm Laxmiish Shukla 👋[cite: 2]
+# 👨‍💻 Hi, I'm Laxmiish Shukla
 
-I am a Software Engineering and Data Science student focusing on full-stack web development, backend architecture, and machine learning[cite: 2]. 
+### Software Engineer & Data Science Researcher | Building Scalable Systems & AI Solutions
+
+I am a results-driven developer focusing on full-stack web development, backend architecture, and machine learning. <!--[cite: 2] --> I specialize in architecting production-grade microservices, RESTful APIs, and secure authentication systems to drive scalable, high-impact product solutions. <!--[cite: 2] -->
 
 ### 🚀 What I'm Currently Focusing On
-* Solving advanced algorithmic challenges on LeetCode (140+ solved, focusing on DP, Graphs, and Complex Data Structures)[cite: 3].
-* Developing **HabitOS**, a Next.js and React web application for efficiently logging, tracking, and visualizing daily routines[cite: 2, 3].
-* Implementing end-to-end machine learning workflows and advanced statistical analysis for a Data Science minor at IIT Mandi[cite: 2, 3].
-* Architecting production-grade microservices, RESTful APIs, and secure authentication systems[cite: 2].
+* **Algorithm Optimization:** Consistently tackling advanced algorithmic challenges on LeetCode (140+ solved), with expertise in Dynamic Programming, Graph Theory, and Complex Data Structures. <!--[cite: 3] -->
+* **Data Science & ML:** Implementing end-to-end machine learning workflows and advanced statistical analysis for predictive modeling. <!--[cite: 2, 3] -->
+* **System Architecture:** Developing robust backend microservices in Go and building scalable architectures. <!--[cite: 2] -->
 
-### 📁 My Projects
+### 📁 Featured Projects
 
-**Transit Ops**
-* A comprehensive transport operations platform managing fleets, drivers, and trips[cite: 2].
-* *Tech Stack:* React.js, FastAPI, PostgreSQL, JWT Authentication[cite: 2].
+**[Suraksha Grid](#)** | *Go, Gin, React.js, Tailwind CSS* <!--[cite: 2] -->
+* Engineered backend microservices for a highly scalable Gov-tech platform designed to facilitate BOCW benefits distribution for over 60 million unorganized workers. <!--[cite: 2] -->
+* Integrated background CRON jobs, secure E-KYC verification protocols, and strict JWT session management. <!--[cite: 2] -->
 
-**Suraksha Grid**
-* A Gov-tech platform designed to facilitate BOCW benefits distribution for over 60 million unorganized workers[cite: 2].
-* *Tech Stack:* Go, Gin, React.js, Tailwind CSS[cite: 2].
+**[Transit Ops](#)** | *React.js, FastAPI, PostgreSQL, JWT* <!--[cite: 2] -->
+* Architected a comprehensive transport operations platform managing fleets, drivers, and trips with zero-downtime offline fallback capabilities. <!--[cite: 2] -->
+* Designed scalable RESTful APIs enforcing capacity validation and powering real-time Recharts KPI dashboards. <!--[cite: 2] -->
 
-**Attendance Management System**
-* A MERN-stack attendance tracking system enabling real-time database updates and reporting[cite: 3].
-* *Tech Stack:* MongoDB, Express, React, Node.js[cite: 3].
+**[Edge AI for Smart Grid](#)** | *Python, Edge DPUs, Machine Learning*
+* Authored simulation scripts and deployed an Edge AI model directly onto local transformer Data Processing Units for real-time net-load prediction. 
+
+**[HabitOS](#)** | *Next.js, React, FastAPI, MySQL* <!--[cite: 2] -->
+* Built a responsive web application for efficiently logging, tracking, and visualizing daily routines with real-time progress analytics. <!--[cite: 3] -->
+
+### 🏆 Achievements
+* **Hackathon Finalist:** Invedex Hackathon (Unstop x Babu Banarsi Das University, 2026). <!--[cite: 3] -->
+* **Leadership:** Finance Volunteer for National Service Scheme (NSS), streamlining operational workflows for university community service initiatives. <!--[cite: 3] -->
 
 ### 🛠 Skills & Tech Stack
-* **Languages:** JavaScript | Python | Go | SQL | HTML5 | CSS3[cite: 2]
-* **Frontend:** React.js | Next.js | Tailwind CSS | Responsive Web Design | Axios[cite: 2]
-* **Backend:** FastAPI | Gin | Node.js | Express | RESTful APIs | Microservices Architecture[cite: 2]
-* **Databases:** PostgreSQL | MySQL | MongoDB | SQLAlchemy[cite: 2]
-* **Data Science:** Python | Pandas | NumPy | Scikit-Learn | Predictive Modeling[cite: 2]
-* **Tools & Security:** Git | Postman | JWT Authentication | bcrypt | RBAC | Jupyter Notebook[cite: 2]
+* **Languages:** JavaScript | Python | Go | SQL | HTML5 | CSS3 <!--[cite: 2] -->
+* **Frontend:** React.js | Next.js | Tailwind CSS | Responsive Web Design <!--[cite: 2] -->
+* **Backend & APIs:** FastAPI | Gin | Node.js | Express | Microservices Architecture <!--[cite: 2] -->
+* **Databases:** PostgreSQL | MySQL | MongoDB | SQLAlchemy <!--[cite: 2] -->
+* **AI & Data Science:** Pandas | NumPy | Scikit-Learn | Predictive Modeling <!--[cite: 2] -->
+* **Tools & Security:** Git | Postman | JWT | bcrypt | RBAC | Docker <!--[cite: 2] -->
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/laxmiish-shukla](https://www.linkedin.com/in/laxmiish-shukla)[cite: 2]
-* **Email:** [laxmiishshukla@gmail.com](mailto:laxmiishshukla@gmail.com)[cite: 2]
+* **LinkedIn:** [linkedin.com/in/laxmiish-shukla](https://www.linkedin.com/in/laxmiish-shukla) <!--[cite: 2] -->
+* **Email:** [laxmiishshukla@gmail.com](mailto:laxmiishshukla@gmail.com) <!--[cite: 2] -->
